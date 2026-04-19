@@ -1,0 +1,53 @@
+2025-07-14 14:11:11,341 - MMSA [INFO] - train samples: (1284,)
+2025-07-14 14:11:11,611 - MMSA [INFO] - valid samples: (229,)
+2025-07-14 14:11:11,873 - MMSA [INFO] - test samples: (686,)
+2025-07-14 14:11:38,883 - MMSA [INFO] - >> Epoch: 1 TRAIN [1/1] >> total_loss: 1.375 acc_7: 0.1986 acc_5: 0.2017 acc_2: 0.5498/0.5418 F1_score:  0.526/0.5168 Corr: 0.0646 MAE: 1.3628
+2025-07-14 14:11:39,631 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.2052 acc_5: 0.2052 acc_2: 0.6026/0.5787 F1_score:  0.4652/0.437 Corr: 0.3581 MAE: 1.3385 Loss: 1.3118
+2025-07-14 14:11:48,524 - MMSA [INFO] - >> Epoch: 2 TRAIN [1/2] >> total_loss: 1.0966 acc_7: 0.2469 acc_5: 0.2516 acc_2: 0.7017/0.7027 F1_score:  0.6906/0.6909 Corr: 0.5372 MAE: 1.0827
+2025-07-14 14:11:49,246 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.3144 acc_5: 0.3843 acc_2: 0.7991/0.8333 F1_score:  0.8009/0.8342 Corr: 0.6944 MAE: 0.9472 Loss: 0.9794
+2025-07-14 14:12:00,328 - MMSA [INFO] - >> Epoch: 3 TRAIN [1/3] >> total_loss: 0.7839 acc_7: 0.4034 acc_5: 0.4245 acc_2: 0.8279/0.8481 F1_score:  0.8287/0.8485 Corr: 0.7489 MAE: 0.7821
+2025-07-14 14:12:01,041 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.2751 acc_5: 0.3188 acc_2: 0.8035/0.8426 F1_score:  0.8054/0.8434 Corr: 0.7239 MAE: 0.9232 Loss: 1.0150
+2025-07-14 14:12:10,089 - MMSA [INFO] - >> Epoch: 4 TRAIN [2/4] >> total_loss: 0.6821 acc_7: 0.4237 acc_5: 0.4486 acc_2: 0.859/0.8838 F1_score:  0.8597/0.8841 Corr: 0.8182 MAE: 0.6692
+2025-07-14 14:12:10,822 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.3013 acc_5: 0.3799 acc_2: 0.786/0.8241 F1_score:  0.7881/0.825 Corr: 0.7296 MAE: 0.8878 Loss: 0.8783
+2025-07-14 14:12:21,530 - MMSA [INFO] - >> Epoch: 5 TRAIN [1/5] >> total_loss: 0.5891 acc_7: 0.4907 acc_5: 0.5288 acc_2: 0.8715/0.896 F1_score:  0.8721/0.8963 Corr: 0.8647 MAE: 0.5746
+2025-07-14 14:12:22,282 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.3799 acc_5: 0.4803 acc_2: 0.7948/0.8194 F1_score:  0.7964/0.82 Corr: 0.7553 MAE: 0.8337 Loss: 0.8362
+2025-07-14 14:12:32,939 - MMSA [INFO] - >> Epoch: 6 TRAIN [1/6] >> total_loss: 0.5166 acc_7: 0.5428 acc_5: 0.5857 acc_2: 0.8762/0.896 F1_score:  0.8767/0.8962 Corr: 0.8903 MAE: 0.5123
+2025-07-14 14:12:33,628 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.3712 acc_5: 0.4803 acc_2: 0.7948/0.8287 F1_score:  0.7968/0.8296 Corr: 0.7679 MAE: 0.7903 Loss: 0.7773
+2025-07-14 14:12:44,019 - MMSA [INFO] - >> Epoch: 7 TRAIN [1/7] >> total_loss: 0.4448 acc_7: 0.5903 acc_5: 0.6394 acc_2: 0.8964/0.9131 F1_score:  0.8969/0.9133 Corr: 0.9206 MAE: 0.4400
+2025-07-14 14:12:44,720 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4105 acc_5: 0.5197 acc_2: 0.7991/0.8333 F1_score:  0.801/0.834 Corr: 0.7752 MAE: 0.7730 Loss: 0.8424
+2025-07-14 14:12:52,738 - MMSA [INFO] - >> Epoch: 8 TRAIN [2/8] >> total_loss: 0.3826 acc_7: 0.6488 acc_5: 0.7002 acc_2: 0.9151/0.9358 F1_score:  0.9154/0.9358 Corr: 0.9394 MAE: 0.3761
+2025-07-14 14:12:53,458 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.3930 acc_5: 0.4934 acc_2: 0.8166/0.8426 F1_score:  0.8172/0.8421 Corr: 0.7773 MAE: 0.7754 Loss: 0.7909
+2025-07-14 14:13:01,789 - MMSA [INFO] - >> Epoch: 9 TRAIN [3/9] >> total_loss: 0.3386 acc_7: 0.6783 acc_5: 0.7329 acc_2: 0.9143/0.9374 F1_score:  0.9147/0.9376 Corr: 0.9544 MAE: 0.3330
+2025-07-14 14:13:02,504 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.3755 acc_5: 0.4672 acc_2: 0.8253/0.8426 F1_score:  0.8256/0.8421 Corr: 0.7772 MAE: 0.7748 Loss: 0.7391
+2025-07-14 14:13:12,898 - MMSA [INFO] - >> Epoch: 10 TRAIN [1/10] >> total_loss: 0.2882 acc_7: 0.7251 acc_5: 0.7765 acc_2: 0.9424/0.9594 F1_score:  0.9425/0.9594 Corr: 0.9660 MAE: 0.2835
+2025-07-14 14:13:13,596 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4105 acc_5: 0.5197 acc_2: 0.821/0.8519 F1_score:  0.8223/0.852 Corr: 0.7922 MAE: 0.7259 Loss: 0.7293
+2025-07-14 14:13:23,893 - MMSA [INFO] - >> Epoch: 11 TRAIN [1/11] >> total_loss: 0.2614 acc_7: 0.7391 acc_5: 0.7921 acc_2: 0.947/0.9618 F1_score:  0.9471/0.9618 Corr: 0.9732 MAE: 0.2567
+2025-07-14 14:13:24,586 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4367 acc_5: 0.5502 acc_2: 0.821/0.8519 F1_score:  0.8223/0.852 Corr: 0.8012 MAE: 0.7144 Loss: 0.7153
+2025-07-14 14:13:34,911 - MMSA [INFO] - >> Epoch: 12 TRAIN [1/12] >> total_loss: 0.258 acc_7: 0.7640 acc_5: 0.8154 acc_2: 0.954/0.9691 F1_score:  0.9542/0.9692 Corr: 0.9749 MAE: 0.2511
+2025-07-14 14:13:35,614 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4236 acc_5: 0.5284 acc_2: 0.8341/0.8565 F1_score:  0.8346/0.8561 Corr: 0.7995 MAE: 0.7207 Loss: 0.7753
+2025-07-14 14:13:43,561 - MMSA [INFO] - >> Epoch: 13 TRAIN [2/13] >> total_loss: 0.2363 acc_7: 0.7625 acc_5: 0.8162 acc_2: 0.9525/0.974 F1_score:  0.9526/0.974 Corr: 0.9792 MAE: 0.2274
+2025-07-14 14:13:44,251 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4236 acc_5: 0.5153 acc_2: 0.8166/0.8472 F1_score:  0.8178/0.8473 Corr: 0.7974 MAE: 0.7320 Loss: 0.7622
+2025-07-14 14:13:52,181 - MMSA [INFO] - >> Epoch: 14 TRAIN [3/14] >> total_loss: 0.2317 acc_7: 0.7570 acc_5: 0.8092 acc_2: 0.9548/0.9748 F1_score:  0.955/0.9748 Corr: 0.9802 MAE: 0.2227
+2025-07-14 14:13:52,879 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4105 acc_5: 0.5197 acc_2: 0.8297/0.8611 F1_score:  0.8309/0.8613 Corr: 0.7969 MAE: 0.7182 Loss: 0.6760
+2025-07-14 14:14:03,057 - MMSA [INFO] - >> Epoch: 15 TRAIN [1/15] >> total_loss: 0.2296 acc_7: 0.7687 acc_5: 0.8154 acc_2: 0.9556/0.9724 F1_score:  0.9557/0.9724 Corr: 0.9814 MAE: 0.2232
+2025-07-14 14:14:03,743 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.3886 acc_5: 0.4934 acc_2: 0.821/0.8519 F1_score:  0.8226/0.8525 Corr: 0.7962 MAE: 0.7314 Loss: 0.7453
+2025-07-14 14:14:11,631 - MMSA [INFO] - >> Epoch: 16 TRAIN [2/16] >> total_loss: 0.2049 acc_7: 0.7913 acc_5: 0.8364 acc_2: 0.9525/0.9756 F1_score:  0.9527/0.9757 Corr: 0.9852 MAE: 0.1986
+2025-07-14 14:14:12,331 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4192 acc_5: 0.5197 acc_2: 0.8341/0.8565 F1_score:  0.8343/0.8559 Corr: 0.8017 MAE: 0.7250 Loss: 0.7340
+2025-07-14 14:14:20,105 - MMSA [INFO] - >> Epoch: 17 TRAIN [3/17] >> total_loss: 0.1817 acc_7: 0.8271 acc_5: 0.8699 acc_2: 0.9688/0.9813 F1_score:  0.9689/0.9813 Corr: 0.9885 MAE: 0.1749
+2025-07-14 14:14:20,790 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4148 acc_5: 0.5153 acc_2: 0.8297/0.8611 F1_score:  0.8308/0.8611 Corr: 0.7986 MAE: 0.7270 Loss: 0.7525
+2025-07-14 14:14:28,735 - MMSA [INFO] - >> Epoch: 18 TRAIN [4/18] >> total_loss: 0.1711 acc_7: 0.8372 acc_5: 0.8754 acc_2: 0.9634/0.9886 F1_score:  0.9635/0.9886 Corr: 0.9903 MAE: 0.1624
+2025-07-14 14:14:29,423 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4105 acc_5: 0.5066 acc_2: 0.8253/0.8565 F1_score:  0.8263/0.8564 Corr: 0.8013 MAE: 0.7186 Loss: 0.7181
+2025-07-14 14:14:37,810 - MMSA [INFO] - >> Epoch: 19 TRAIN [5/19] >> total_loss: 0.1669 acc_7: 0.8442 acc_5: 0.8746 acc_2: 0.9751/0.9935 F1_score:  0.9751/0.9935 Corr: 0.9908 MAE: 0.1588
+2025-07-14 14:14:38,505 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4279 acc_5: 0.5240 acc_2: 0.8297/0.8519 F1_score:  0.8301/0.8514 Corr: 0.8036 MAE: 0.7161 Loss: 0.7425
+2025-07-14 14:14:46,854 - MMSA [INFO] - >> Epoch: 20 TRAIN [6/20] >> total_loss: 0.1516 acc_7: 0.8489 acc_5: 0.8816 acc_2: 0.9587/0.9903 F1_score:  0.9589/0.9903 Corr: 0.9921 MAE: 0.1478
+2025-07-14 14:14:47,550 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4061 acc_5: 0.5022 acc_2: 0.8253/0.8519 F1_score:  0.8259/0.8514 Corr: 0.8019 MAE: 0.7096 Loss: 0.7050
+2025-07-14 14:14:55,945 - MMSA [INFO] - >> Epoch: 21 TRAIN [7/21] >> total_loss: 0.1409 acc_7: 0.8668 acc_5: 0.8980 acc_2: 0.9782/0.9903 F1_score:  0.9782/0.9902 Corr: 0.9932 MAE: 0.1348
+2025-07-14 14:14:56,631 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4105 acc_5: 0.5066 acc_2: 0.8297/0.8611 F1_score:  0.8306/0.8609 Corr: 0.8059 MAE: 0.7041 Loss: 0.7082
+2025-07-14 14:15:04,848 - MMSA [INFO] - >> Epoch: 22 TRAIN [8/22] >> total_loss: 0.1391 acc_7: 0.8738 acc_5: 0.9003 acc_2: 0.9712/0.9903 F1_score:  0.9713/0.9903 Corr: 0.9938 MAE: 0.1297
+2025-07-14 14:15:05,517 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4061 acc_5: 0.5066 acc_2: 0.8253/0.8565 F1_score:  0.8261/0.8561 Corr: 0.8081 MAE: 0.7035 Loss: 0.7283
+2025-07-14 14:15:13,915 - MMSA [INFO] - >> Epoch: 23 TRAIN [9/23] >> total_loss: 0.1192 acc_7: 0.8863 acc_5: 0.9112 acc_2: 0.9829/0.9927 F1_score:  0.9829/0.9927 Corr: 0.9953 MAE: 0.1123
+2025-07-14 14:15:14,661 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4279 acc_5: 0.5240 acc_2: 0.8253/0.8565 F1_score:  0.8261/0.8561 Corr: 0.8051 MAE: 0.6988 Loss: 0.6874
+2025-07-14 14:15:23,552 - MMSA [INFO] - >> Epoch: 24 TRAIN [10/24] >> total_loss: 0.1145 acc_7: 0.8879 acc_5: 0.9104 acc_2: 0.9727/0.9919 F1_score:  0.9728/0.9919 Corr: 0.9955 MAE: 0.1068
+2025-07-14 14:15:24,293 - MMSA [INFO] - VAL-(TLRRB) >> acc_7: 0.4192 acc_5: 0.5109 acc_2: 0.8297/0.8565 F1_score:  0.8304/0.8561 Corr: 0.8065 MAE: 0.7039 Loss: 0.7607
+2025-07-14 14:15:28,114 - MMSA [INFO] - TEST-(TLRRB) >> acc_7: 0.4781 acc_5: 0.5481 acc_2: 0.8411/0.8628 F1_score:  0.8392/0.8616 Corr: 0.7920 MAE: 0.7128 Loss: 0.7261
+2025-07-14 14:15:29,382 - MMSA [INFO] - Results saved to result/normal/mosi.csv.
